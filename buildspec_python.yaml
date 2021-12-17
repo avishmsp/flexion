@@ -1,0 +1,13 @@
+ Auth: 
+    SourceAuth
+  BuildSpec: String
+  BuildStatusConfig: 
+    BuildStatusConfig
+  GitCloneDepth: Integer
+  GitSubmodulesConfig: 
+    GitSubmodulesConfig
+  InsecureSsl: Boolean
+  Location: String
+  ReportBuildStatus: Boolean
+  SourceIdentifier: String
+  Type: String
